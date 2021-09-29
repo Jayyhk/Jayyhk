@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayyhk
 - 👀 I’m interested in osu!
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on homework lol.
+- 💞️ I’m looking to not fail.
 - 📫 How to reach me: Jayyhk#1016 on Discord.
 
 <!---
