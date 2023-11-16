@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jayyhk
-- 👀 I’m interested in osu!
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to not fail.
-- 📫 How to reach me: Jayyhk#1016 on Discord.
+Hi I'm Jayyhk.
 
 <!---
 Jayyhk/Jayyhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
